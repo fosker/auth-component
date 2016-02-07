@@ -1,0 +1,17 @@
+{
+    "name": "fosker/auth",
+    "description": "auth component",
+    "authors": [
+        {
+            "name": "Bogdan Pushkarskiy",
+            "email": "fosker3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "Auth\\": "Auth"
+    }
+  }
+}
